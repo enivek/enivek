@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @enivek
-- 👀 I’m interested in Software Architecture and Machine Learning.
-- 🌱 I’m currently learning Data Science.
+- 👀 I’m interested in Software Architecture and Data Science
+- 🌱 I’m currently learning Machine Learning.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
